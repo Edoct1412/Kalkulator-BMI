@@ -1,0 +1,42 @@
+.container {
+    display: block;
+    margin: auto;
+    width: 80vh;
+}
+
+.judul h1 {
+    text-align: center;
+}
+
+.judul p {
+    text-align: center;
+    font-size: 20px;
+}
+
+form {
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+form input {
+    width: 70vh;
+    height: 25px;
+    margin-top: 10px;
+    border: 2px solid #87CBB9;
+    border-radius: 5px;
+}
+
+form button {
+    font-size: 15px;
+    background-color: #7542ac;
+    padding: 10px;
+    width: 140px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#hasil {
+    margin-left: 20px;
+}
